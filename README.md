@@ -1,8 +1,12 @@
-# Azure Functions on Linux quickstart starter sample 
+# Azure Functions on Linux custom image tutorial sample project 
 
-The code in the this repository supports the Azure Functions custom image topic for Linux [Create a function on Linux using a custom image](https://docs.microsoft.com/azure/azure-functions/functions-create-function-linux-custom-image). There are three HTTP triggered functions, one each for C#, F#, and JavaScript. These functions are generated from the same HTTP triggered function templates available in the Azure portal. This repo is designed to be deployed to Azure Functions on Linux as a custom container from a Docker image. 
+The code in the this repository supports the Azure Functions custom image tutorial for Linux: [Create a function on Linux using a custom image](https://docs.microsoft.com/azure/azure-functions/functions-create-function-linux-custom-image). 
 
-## Dockerfile
+There are three HTTP triggered functions, one each for C#, F#, and JavaScript. These functions are generated from the same HTTP triggered function templates available in the Azure portal. 
+
+This repo is designed to be deployed to Azure Functions on Linux as a custom container from a Docker image. 
+
+### Dockerfile
 
 This project contains a [Dockerfile] that describes the environment that is required to run the function app on Linux. 
  
