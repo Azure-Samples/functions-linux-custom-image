@@ -1,6 +1,6 @@
 # Azure Functions on Linux custom image tutorial sample project 
 
-The code in the this repository supports the Azure Functions custom image tutorial for Linux: [Create a function on Linux using a custom image](https://docs.microsoft.com/azure/azure-functions/functions-create-function-linux-custom-image). 
+The code in this repository supports the [Azure Functions custom image tutorial for Linux](https://docs.microsoft.com/azure/azure-functions/functions-create-function-linux-custom-image). 
 
 There are three HTTP triggered functions, one each for C#, F#, and JavaScript. These functions are generated from the same HTTP triggered function templates available in the Azure portal. 
 
