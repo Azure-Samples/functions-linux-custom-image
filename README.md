@@ -1,3 +1,10 @@
+---
+languages: []
+page_type: sample
+products:
+- azure
+---
+
 # Azure Functions on Linux custom image tutorial sample project 
 
 The code in this repository supports the [Azure Functions custom image tutorial for Linux](https://docs.microsoft.com/azure/azure-functions/functions-create-function-linux-custom-image). 
